@@ -1,6 +1,6 @@
 # Spring Boot PATCH Mapping API with ReflectionUtils
 
-This project is a Spring Boot API that demonstrates how to perform partial updates (PATCH requests) on an entity using `ReflectionUtils`. The API allows updating specific fields of the `Name And Roll No` entity.
+This project is a Spring Boot API that demonstrates how to perform partial updates (PATCH requests) on an entity using `ReflectionUtils`. The API allows updating specific fields of the `PutAndPatch` entity.
 
 ## Features
 
