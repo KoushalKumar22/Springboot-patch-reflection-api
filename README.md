@@ -20,5 +20,5 @@ This project is a Spring Boot API that demonstrates how to perform partial updat
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/springboot-patch-reflection-api.git
+git clone https://github.com/KoushalKumar22/Springboot-patch-reflection-api.git
 cd springboot-patch-reflection-api
